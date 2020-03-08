@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "*Why Did I Decide To Pursue a Career in Software Engineering?*"
-date:       2020-03-08 01:08:28 +0000
+date:       2020-03-07 20:08:29 -0500
 permalink:  why_did_i_decide_to_pursue_a_career_in_software_engineering
 ---
 
